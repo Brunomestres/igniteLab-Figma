@@ -18,6 +18,15 @@ module.exports = {
       'black': '#000000',
       'cyan-500': '#81D8F7',
       'cyan-300': '#C3E8F5',
+    },
+    fontSize: {
+      xs: 14,
+      sm: 16,
+      md: 18,
+      lg: 20,
+      xl: 24,
+      '2xl':32
+
     }
   },
   plugins: [],
