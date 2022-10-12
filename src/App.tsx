@@ -1,6 +1,7 @@
+import { Button } from './components/Button';
 import './styles/global.css'
 function App() {
-  return <div>Hello world</div>;
+  return <Button> Create Account</Button>;
 }
 
 export { App };
